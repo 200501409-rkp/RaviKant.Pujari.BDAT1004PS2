@@ -1,0 +1,1 @@
+print('Information regarding Mid Term will be updated soon')
